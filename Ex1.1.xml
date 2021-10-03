@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<libraryCatelog>
+    <book category="Technical">
+        <ISBN>8601406337282</ISBN>
+        <Title>XML for Dummies</Title>
+        <Author>Ed Tittel</Author>
+    </book>
+    <book category="Technical">
+        <ISBN>123456</ISBN>
+        <Title>Learning XML</Title>
+        <Author>Erk T. Ray</Author>    
+    </book>
+    <book category="Cookery">
+        <ISBN>8888888</ISBN>
+        <Title>Lean in 15 minutes</Title>
+        <Author>Joe Wicks</Author>
+    </book>
+    <book category="Cookery">
+        <ISBN>12121212</ISBN>
+        <Title>Ballymaloe Cooking School Cookbook</Title>
+        <Author>Darian Allen</Author>
+    </book>
+</libraryCatelog>
